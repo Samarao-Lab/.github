@@ -1,33 +1,38 @@
-# João Samarão | Product Manager & Optimization Scientist 🔋📈
+# João Samarão | Energy Data Scientist & PhD Candidate
 
-### The Energy Market Insights Platform
-**Bridging Academic Research and Industrial Application.**
-Developing an adaptive framework for modern electricity markets. This GitHub profile serves as a live platform for energy data processing, market optimisation models, and real-time grid insights.
+### Energy Markets, Optimisation, and Battery Storage
 
----
+I work on data-driven methods for electricity markets, with a focus on battery energy storage systems, renewable integration, and sequential market participation.
 
-## 🔬 Current developing ADADS: Adaptive Decision-Aware Dispatching System
-*Research focuses on making market participation resilient to non-stationary environments.*
-
-| Pillar | Research Direction | Implementation |
-| :--- | :--- | :--- |
-| **I. Forecasting** | Adaptive learning & Regime detection | |
-| **II. Optimization** | Stress-aware multi-market participation | |
-| **III. Control** | Real-time monitoring & corrective agents | |
+My current research explores adaptive decision-making frameworks for BESS operation under uncertainty, combining forecasting, stochastic optimisation, and real-time corrective control.
 
 ---
 
-## 🧬 Scientific & Technical Expertise
+## Current Research: ADADS
 
-- **Optimization:** MILP, Stochastic Programming, Sequential Decision Making (Pyomo).
-- **Product Management:** Agile/Scrum, Data-driven Product Strategy.
-- **Data Engineering:** ETL Pipelines
-- **Market Knowledge:** MIBEL (Day-Ahead/Intraday), Ancillary Services (mFRR, aFRR), BESS Operations.
+**Adaptive Decision-Aware Dispatching System for BESS participation in sequential electricity markets**
+
+The objective of this research is to develop methods that support robust market participation under price uncertainty, changing market regimes, and operational constraints.
+
+| Pillar           | Research Direction                                                                    |
+| ---------------- | ------------------------------------------------------------------------------------- |
+| **Forecasting**  | Adaptive learning, regime detection, and market uncertainty                           |
+| **Optimization** | Multi-market BESS participation, stochastic programming, and flexibility preservation |
+| **Control**      | Real-time monitoring, corrective dispatch, and operational feasibility                |
 
 ---
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/joaosamarao/)
-- 📧 jdlcs01@hotmail.com
+## Technical Focus
 
-*"Transforming complex mathematical uncertainty into actionable market value."*
+* **Optimization:** MILP, stochastic programming, sequential decision-making, Pyomo
+* **Energy Markets:** MIBEL, day-ahead and intraday markets, ancillary services, mFRR, aFRR
+* **Battery Storage:** BESS dispatch, degradation-aware operation, revenue stacking
+* **Data Science:** forecasting, probabilistic modeling, market analytics
+* **Data Engineering:** ETL pipelines, data processing, automation
+
+---
+
+## Connect
+
+* LinkedIn: [linkedin.com/in/joaosamarao](https://www.linkedin.com/in/joaosamarao/)
+* Email: [jdlcs01@hotmail.com](mailto:jdlcs01@hotmail.com) | [joao.samarao@tecnico.ulisboa.pt](mailto:joao.samarao@tecnico.ulisboa.pt)
