@@ -35,5 +35,5 @@ The objective of this research is to develop methods that support robust market 
 ## Connect
 
 * LinkedIn: [linkedin.com/in/joaosamarao](https://www.linkedin.com/in/joaosamarao/)
-* Google Scholar: [https://scholar.google.com/citations?user=V9-qBFQAAAAJ&hl=pt-PT]([https://www.linkedin.com/in/joaosamarao/](https://scholar.google.com/citations?user=V9-qBFQAAAAJ&hl=pt-PT))
+* Google Scholar: [scholar.google.com](https://scholar.google.com/citations?user=V9-qBFQAAAAJ&hl=pt-PT)
 * Email: [jdlcs01@hotmail.com](mailto:jdlcs01@hotmail.com) | [joao.samarao@tecnico.ulisboa.pt](mailto:joao.samarao@tecnico.ulisboa.pt)
